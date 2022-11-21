@@ -1,0 +1,10 @@
+/*struktur media query*/
+@media screen and(max-width: 576px){
+	#layanan h2{
+		color: green;
+	}
+
+	a{
+		color: green;
+	}
+}
